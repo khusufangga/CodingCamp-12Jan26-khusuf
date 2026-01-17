@@ -11,7 +11,7 @@ function welcomeMessage() {
     }
 
     // Display the welcome message in the element with id "welcome-speech"
-    document.getElementById("welcome-speech").innerText = `Welcome, ${userResponse}! to Yama Website.`;
+    document.getElementById("welcome-speech").innerText = `Welcome, ${userResponse}! to Khusuf Website.`;
 }
 
 // Placeholder for form validation function
